@@ -22,7 +22,7 @@ body{
     align-items: center;
     justify-content: space-around;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(255,255, 255, 0.7);
     position: fixed;
     top: 0;
     z-index: 1;
@@ -47,7 +47,7 @@ body{
 a{
     text-transform: uppercase;
     text-decoration: none;
-    color:white;
+    color:black;
     padding: 20px;
     display: inline-block;
     
