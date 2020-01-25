@@ -14,7 +14,7 @@
 }
 
 
-.transparent_nav{
+header.transparent_nav{
     display: flex;
     align-items: center;
     justify-content: space-around;
