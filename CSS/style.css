@@ -41,7 +41,7 @@ body{
     list-style-type: none;
 }
 
-a{
+#nav_item_1{
     text-transform: uppercase;
     text-decoration: none;
     color:black;
@@ -49,6 +49,41 @@ a{
     display: inline-block;
     
 }
+
+
+#nav_item_2{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    
+}
+
+#nav_item_3{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    
+}
+
+#nav_item_4{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    
+}
+
+
+
+
+
+
+
 
 a:hover{
 
@@ -61,7 +96,7 @@ a:hover{
 
 /* house image */
 
-.wrapper{
+.cta{
 
   position: relative;
   max-width: 1000px;
@@ -70,12 +105,12 @@ a:hover{
 
 }
 
-.wrapper img {
+.cta img {
     vertical-align: middle;
     width: 100%;
 }
 
-.wrapper .content {
+.cta .content {
     position: absolute;
     bottom: 0;
     background: rgb(0, 0, 0); /* Fallback color */
@@ -86,7 +121,7 @@ a:hover{
   }
 
 
-.content .contact-btn{
+#cta_link{
     float: right;
     padding: 10px;
     color:black;
@@ -94,9 +129,13 @@ a:hover{
     border-radius: 5px;
 }
 
-.content .content-paragraph{
+#cta_text{
     display: inline-block;
     margin-top: 3px;
+}
+
+.cta:hover{
+    background-color: wheat;
 }
 
 
@@ -110,7 +149,7 @@ a:hover{
 
 /*services section */
 
-.services-wrapper{
+.serviceswrapper{
     background-color: whitesmoke;
     width: 100%;
     margin-top: 20px;
@@ -118,7 +157,7 @@ a:hover{
 }
 
 
-.services-wrapper .outer-div{
+.serviceswrapper .outer-div{
 
     width: 50%;
     margin: 15px auto;
@@ -146,6 +185,12 @@ a:hover{
     
 }
 
+.stuffs{
+    text-align: center;
+    padding-top: 10px;
+    margin:auto;
+}
+
 
 
 
@@ -154,7 +199,6 @@ a:hover{
 
 
 .stuff{
-     
      margin:auto;
 }
 
@@ -168,8 +212,12 @@ a:hover{
     height: 250px;
     
 }
+.imgs:hover{
+    width: 300px;
+    
+}
 
-.image-section{
+.recent_work{
     width: 100%;
     margin: 0 50px;
     
@@ -269,11 +317,64 @@ a:hover{
 
 }
 
-.footeranchor{
+
+
+
+#comp_item_1{
     color: white;
     text-decoration: none;
     display: block;
 }
+
+
+#comp_item_2{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+
+#comp_item_3{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+#comp_item_4{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+
+#sup_item_1{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+
+#sup_item_2{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+#sup_item_3{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
 
 h2{
     padding: 20px;
