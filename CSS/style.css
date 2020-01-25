@@ -14,7 +14,7 @@
 }
 
 
-header.transparent_nav{
+.transparent_nav{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -151,7 +151,7 @@ a:hover{
 
 /*services section */
 
-.serviceswrapper{
+.sectionwrap{
     background-color: whitesmoke;
     width: 100%;
     margin-top: 20px;
@@ -159,7 +159,7 @@ a:hover{
 }
 
 
-.serviceswrapper .outer-div{
+ .outer-div{
 
     width: 50%;
     margin: 15px auto;
