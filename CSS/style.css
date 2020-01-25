@@ -41,7 +41,7 @@ body{
     list-style-type: none;
 }
 
-#nav_item_1{
+a{
     text-transform: uppercase;
     text-decoration: none;
     color:black;
@@ -50,33 +50,6 @@ body{
     
 }
 
-
-#nav_item_2{
-    text-transform: uppercase;
-    text-decoration: none;
-    color:black;
-    padding: 20px;
-    display: inline-block;
-    
-}
-
-#nav_item_3{
-    text-transform: uppercase;
-    text-decoration: none;
-    color:black;
-    padding: 20px;
-    display: inline-block;
-    
-}
-
-#nav_item_4{
-    text-transform: uppercase;
-    text-decoration: none;
-    color:black;
-    padding: 20px;
-    display: inline-block;
-    
-}
 
 
 
