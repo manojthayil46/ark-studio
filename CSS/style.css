@@ -232,12 +232,12 @@ a:hover{
 
 
 /* testimonial section */
-.testimonials-wrapper{
+.textimonial-wrap{
     background-color: whitesmoke;
 }
 
 
-.testimonials-wrapper .testimonials li{
+ .testimonials li{
     list-style-type: none;
     margin: 10px;
     padding: 10px;
