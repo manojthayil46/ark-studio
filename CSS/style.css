@@ -36,56 +36,34 @@
 }
 
 
-  #nav_list li{
+li#nav_item_1{
 
     list-style-type: none;
 }
 
-#nav_item_1{
-    text-transform: uppercase;
+
+li#nav_item_2{
+
+    list-style-type: none;
+}
+
+li#nav_item_3{
+
+    list-style-type: none;
+}
+
+li#nav_item_4{
+
+    list-style-type: none;
+}
+
+a{
     text-decoration: none;
     color:black;
     padding: 20px;
     display: inline-block;
     
 }
-
-#nav_item_2{
-    text-transform: uppercase;
-    text-decoration: none;
-    color:black;
-    padding: 20px;
-    display: inline-block;
-
-}
-
-#nav_item_3{
-    text-transform: uppercase;
-    text-decoration: none;
-    color:black;
-    padding: 20px;
-    display: inline-block;
-
-}
-
-#nav_item_4{
-    text-transform: uppercase;
-    text-decoration: none;
-    color:black;
-    padding: 20px;
-    display: inline-block;
-
-}
-
-
-
-
-
-
-
-
-
-
 
 a:hover{
 
